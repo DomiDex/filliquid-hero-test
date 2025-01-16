@@ -8,8 +8,9 @@ export default function Home() {
         containerWidth='full'
         containerClassName='container mx-auto flex flex-col items-center justify-center'
       >
-        <h1 className='text-4xl font-bold text-center'>
-          Stake & Borrow Filecoin To Earn FIG&FIL
+        <h1 className='text-6xl font-bold text-center'>
+          Stake & Borrow Filecoin <br className='hidden sm:block' />
+          To Earn FIG&FIL
         </h1>
       </Section>
     </main>
